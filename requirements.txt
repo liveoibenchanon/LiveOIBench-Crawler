@@ -1,0 +1,6 @@
+marker
+beautifulsoup4
+tqdm
+GitPython
+PyPDF2
+requests
